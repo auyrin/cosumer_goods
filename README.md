@@ -1,5 +1,5 @@
 # cosumer_goods
-SQL challenge from management for a junior data analyst
+SQL and presentation challenge from management for a junior data analyst
 
 ## description:
 Domain:  Consumer Goods | Function: Executive Management
