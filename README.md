@@ -1,5 +1,6 @@
 # cosumer_goods
-SQL and presentation challenge from management for a junior data analyst
+SQL queries and presentation challenge from management for a junior data analyst. here i pretend to be the junior data analyst.
+[https://youtu.be/57WpJfbKDtU](url)
 
 ## description:
 Domain:  Consumer Goods | Function: Executive Management
