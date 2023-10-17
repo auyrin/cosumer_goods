@@ -1,5 +1,7 @@
 # cosumer_goods
 SQL queries and presentation challenge from management for a junior data analyst. here i pretend to be the junior data analyst.
+
+#### watch me present it here
 (https://youtu.be/57WpJfbKDtU)
 
 ## description:
